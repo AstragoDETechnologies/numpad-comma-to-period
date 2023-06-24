@@ -1,1 +1,1 @@
-bin gleich wieder da
+Changes the comma button of the numpad (",") to send a period (".") instead.
